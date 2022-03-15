@@ -4,9 +4,9 @@ This Problem Set has two code exercises. Within both coding exercises are a seri
 
 ## Instructions
 
-Clone this project down before you beining the coding exercises.
+Clone this project down before you begin the coding exercises.
 
-## Coding Exercise 1: Intro to Node
+# Coding Exercise 1: Intro to Node
 
 ### Step 1:
 
@@ -64,7 +64,7 @@ Run `node.marcy.js` from the command line.
 
 **How many times what your statement logged to the console and why? Reference the [node.js docs](https://nodejs.org/docs/latest/api/modules.html#modules_caching) to learn more about caching**
 
-## Coding Exercise 2: HTTP Server
+# Coding Exercise 2: HTTP Server
 
 1. Initialize a node project, in the `node-http-application` folder. `cd node-http-application` and then run `npm init`. 
 
