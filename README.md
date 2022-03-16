@@ -1,6 +1,6 @@
 # Unit 7 Problem Set 1
 
-This Problem Set has two code exercises. Within both coding exercises are a serioes of short response questions written in **bold text**. In order to compelte this assignments, you must complete both coding exercises and answer the short response questions by updating this `README.md` directly.
+This Problem Set has two code exercises. Within both coding exercises are a series of short response questions written in **bold text**. In order to compelte this assignment, you must complete both coding exercises and answer the short response questions by updating this `README.md` directly.
 
 ## Instructions
 
