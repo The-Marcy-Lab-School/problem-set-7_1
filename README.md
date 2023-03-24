@@ -100,8 +100,6 @@ http://localhost:8080/?name=Ann     => 'Hello Ann!'
 
 1. **Describe the purpose of HTTP Status Codes. Why are these important?**
 
-2. **What is the difference between a URL and a URI?**
+2. **What is the purpose of query params? How do we use them in our applications?**
 
-3. **What is the purpose of query params? How do we use them in our applications?**
-
-4. **What is the client and what is the server in this exercise?**
+3. **What is the client and what is the server in this exercise?**
