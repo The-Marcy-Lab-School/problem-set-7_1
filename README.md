@@ -13,7 +13,7 @@ Clone this project down before you begin the coding exercises.
 
 3. Build your server so that it responds differently to different pathnames. If the path is `/`, the app should return a plain text response of "Hello World!". If the path is `/dogs`, the app should return a plain text response of "Hello Dogs!". For any other path, we should return a plain text message of "Sorry, that route does not exist."
 
-4. Refactor your server so that we also return the appropriate status code. The status codes of the application so that the `/` and `dogs` routes both return a 200 status, while the default option becomes a 404 response.
+4. Refactor your server so that we also return the appropriate status code. The `/` and `dogs` routes should both return a 200 status, while any other path returns a 404 response.
 
 5. Refactor your `/` path to account for query parameters. We should display some non-static content to the user. For example, `/?name=Doug` should then response with the text `Hello Doug!`.
 
