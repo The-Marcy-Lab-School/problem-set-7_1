@@ -1,0 +1,15 @@
+{
+  "name": "problem-set-7_1",
+  "version": "1.0.0",
+  "description": "This Problem Set has two code exercises. Within both coding exercises are a series of short response questions written in **bold text**. In order to compelte this assignment, you must complete both coding exercises and answer the short response questions by updating this `README.md` directly.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
