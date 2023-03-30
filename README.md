@@ -5,7 +5,7 @@ This Problem Set has a coding exercise that should be completed before completin
 ## Coding Exercise: HTTP Server
 1. You must build out a basic server using the `http` module. 
 
-2. There is some starter code. To start the server, you must first install dependencies by running `npm install`. In the `package.json` file, the `"start"` script uses [nodemon](https://nodemon.io/). You can start your server by running `npm start`. Any changes to your file will restart the server. 
+2. There is some starter code. First, look at the `package.json` file which lists one dev dependency: `nodemon`. To start the server, you must first install dependencies by running `npm install`. In the `package.json` file, the `"start"` script uses [nodemon](https://nodemon.io/). You can start your server by running `npm start`. Any changes to your file will restart the server. 
 
 3. Build your server so that it responds differently to different pathnames. If the path is `/`, the app should return a plain text response of "Hello World!". If the path is `/dogs`, the app should return a plain text response of "Hello Dogs!". For any other path, we should return a plain text message of "Sorry, that route does not exist."
 
