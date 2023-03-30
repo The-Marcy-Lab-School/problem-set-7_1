@@ -1,5 +1,5 @@
 ### Short Response
-(Note: You will have to complete the coding exercise of this problem set first to answer these question)
+Note: You will have to complete the coding exercise of this problem set first to answer these questions.
 
 1. What is the client and what is the server in this coding exercise? 
 

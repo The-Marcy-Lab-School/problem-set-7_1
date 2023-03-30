@@ -1,12 +1,8 @@
 # Unit 7 Problem Set 1
 
-This Problem Set has a coding exercise that should be completed before completing the short response section. In order to complete this assignment, you must complete the coding exercise in `server.js` and answer the short response questions in `short-response.md`.
+This Problem Set has a coding exercise that should be completed before completing the short response section. In order to complete this assignment, you must complete the coding exercise in `server.js` and answer the short response questions in `short-response.md`. 
 
-## Instructions
-
-Clone this project down before you begin the coding exercises.
-
-# Coding Exercise: HTTP Server
+## Coding Exercise: HTTP Server
 1. You must build out a basic server using the `http` module. 
 
 2. There is some starter code. To start the server, you must first install dependencies by running `npm install`. In the `package.json` file, the `"start"` script uses [nodemon](https://nodemon.io/). You can start your server by running `npm start`. Any changes to your file will restart the server. 
@@ -28,7 +24,7 @@ http://localhost:8080/?name=Ann     => 'Hello Ann!'
 ```
 
 
-### Short Response Section
+## Short Response Section
 
 Answer short response questions directly in the `short-response.md` file. Answer questions in 2 - 3 sentences. Record your answers without removing the original questions. Use complete sentences and style appropriately with markdown.
 
