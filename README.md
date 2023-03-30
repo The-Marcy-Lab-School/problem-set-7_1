@@ -11,7 +11,7 @@ Clone this project down before you begin the coding exercises.
 
 2. There is some starter code. To start the server, you must first install dependencies by running `npm install`. In the `package.json` file, the `"start"` script uses [nodemon](https://nodemon.io/). You can start your server by running `npm start`. Any changes to your file will restart the server. 
 
-3. Update your server function so that your application responds differently to different pathnames. If the path is `/`, the app should return a plain text response of "Hello World!". If the path is `/dogs`, the app should return a plain text response of "Hello Dogs!". For any other path, we should return a plain text message of "Sorry, that route does not exist."
+3. Build your server so that it responds differently to different pathnames. If the path is `/`, the app should return a plain text response of "Hello World!". If the path is `/dogs`, the app should return a plain text response of "Hello Dogs!". For any other path, we should return a plain text message of "Sorry, that route does not exist."
 
 4. Refactor your server so that we also return the appropriate status code. The status codes of the application so that the `/` and `dogs` routes both return a 200 status, while the default option becomes a 404 response.
 
